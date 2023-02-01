@@ -1,6 +1,7 @@
 # Starter Web Project
 Simple website
 Adding line for rebase
+More changes from myfeature branch.
 ## Introduction
 Add introduction
 ## Purpose
